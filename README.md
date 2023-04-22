@@ -19,4 +19,4 @@ This projects presents a creative approach to HTML forms - in this case it was u
 
 ## Live Website :
 
-Form-A-Story website can be viewed [here](https://bea-pan.github.io/Form-A-Story/)
+To personalize the story by yourself, click [here!](https://bea-pan.github.io/Form-A-Story/)
