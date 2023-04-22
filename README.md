@@ -7,7 +7,7 @@
 This projects presents a creative approach to HTML forms - in this case it was used to collect user answers for a story! The user has an opportunity to input their own answers and then see their story being personalised.
 
 ## Objectives
-* Creating a HTML form with the following attributes:
+* Creating a HTML form
 * Familiarity with typical form elements and attributes
 
 ## Technologies used
